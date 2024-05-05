@@ -1,3 +1,3 @@
 https://itask.dev
 
-Building a task web application
+Building an advanced task web application
