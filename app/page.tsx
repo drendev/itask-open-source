@@ -1,8 +1,9 @@
+import LandingHeader from "@/components/LandingPage/header";
 
 export default function Home() {
   return (
     <main className="items-center">
-      <div className="text-center"> Hello World</div>
+      <LandingHeader />
     </main>
   );
 }
